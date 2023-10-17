@@ -1,4 +1,4 @@
-# SMS-Product-Card
+# SMC-Product-Card
 
 Paquete de pruebas de despliegue en npm
 
